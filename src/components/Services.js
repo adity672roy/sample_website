@@ -80,7 +80,7 @@ const Services = () => {
 
         <div className="grid grid-cols-1 lg:grid-cols-2 md:gap-10 gap-4 xl:px-24 lg:px-10 pt-20 ">
           <div>
-            <Image src={smain} width={630} height={416} alt="about" />
+            <Image src={smain} width={630} height={416} alt="about w-full" />
           </div>
 
           <div className="">
@@ -95,13 +95,13 @@ const Services = () => {
 
             <span className="flex sm:gap-4 gap-2 items-center text-lg sm:py-4 py-3 font-medium">
               <IoCheckmark className="border rounded-full bg-[#dac79f]  text-[#b48e40]
-               w-7 h-7 "
+                xs:w-7 xs:h-7 w-5 h-5 "
               />
               Easy to use salon special offer navigation
             </span>
             <span className="flex sm:gap-4 gap-2 items-center text-lg pb-10 font-medium">
               <IoCheckmark className="border rounded-full bg-[#dac79f] text-[#b48e40] 
-              w-7 h-7 "
+              xs:w-7 xs:h-7 w-5 h-5"
               />
               We care about our customers satisfaction
             </span>
