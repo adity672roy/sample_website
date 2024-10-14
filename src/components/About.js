@@ -27,7 +27,7 @@ const About = () => {
        
         <p className='text-base font-sans pb-8'>Haircut is a term used to describe when a person removes the hair on their head. This is done to allow for better access to the part of the body that needs cutting.</p>
        
-        <p  className='text-xl mb-8 pl-4 py-1 border-l-2 border-[#b48e40]'>We're a leading independent salon in Dubai, offering everything from haircuts to exfoliation and</p>
+        <p  className='text-xl mb-8 pl-4 py-1 border-l-2 border-[#b48e40]'>Were a leading independent salon in Dubai, offering everything from haircuts to exfoliation and</p>
 
       <Button text="READ MORE"/>
       </div>
