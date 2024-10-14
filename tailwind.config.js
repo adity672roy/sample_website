@@ -7,10 +7,14 @@ module.exports = {
   ],
   theme: {
     extend: {
-      colors: {
-        background: "var(--background)",
-        foreground: "var(--foreground)",
-      },
+    
+      fontFamily: {
+        arima: ["Arima","system-ui"],  
+      }, 
+      screens : {
+        xs: "400px"
+       },
+      
     },
   },
   plugins: [],
